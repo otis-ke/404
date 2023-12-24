@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/404/static/css/main.d121995b.css",
+    "main.js": "/404/static/js/main.eeb6a716.js",
+    "static/js/787.6d9c1851.chunk.js": "/404/static/js/787.6d9c1851.chunk.js",
+    "static/media/image sun (1).png": "/404/static/media/image sun (1).e634e40adff79c92c101.png",
+    "static/media/closeup-full (1).png": "/404/static/media/closeup-full (1).3b1a94f88386b9e239ed.png",
+    "static/media/astron (1).png": "/404/static/media/astron (1).1946ff3039de60101114.png",
+    "static/media/download earth.png": "/404/static/media/download earth.8d16f921a9110c441d20.png",
+    "index.html": "/404/index.html",
+    "main.d121995b.css.map": "/404/static/css/main.d121995b.css.map",
+    "main.eeb6a716.js.map": "/404/static/js/main.eeb6a716.js.map",
+    "787.6d9c1851.chunk.js.map": "/404/static/js/787.6d9c1851.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d121995b.css",
+    "static/js/main.eeb6a716.js"
+  ]
+}
